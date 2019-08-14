@@ -19,7 +19,7 @@ vSpy listens for keyboard combinations sent by AHK, and if the keyboard combinat
 
 ~~Configure vSpy according to your wishes (*documentation coming soon*) and start it up.  You now can use keyboard combinations to control vMix.  (*again, documentation coming soon*)~~
 
-*The reason this isn't available yet is because currently AHK has to send an `{F23 down}` command to tell vSpy to start logging keys in its buffer, and it keeps logging keys until AHK sends `{F23 up}`.  This is obviously poor design and will eventually be fixed.  When that is fixed, it will be possible to use vSpy without tying it to LuaMacros and AHK.
+*The reason this isn't available yet is because currently AHK has to send an `{F23 down}` command to tell vSpy to start logging keys in its buffer, and it keeps logging keys until AHK sends `{F23 up}`.  This is obviously poor design and will eventually be fixed.  When that is fixed, it will be possible to use vSpy without tying it to LuaMacros and AHK.*
 
 ### Performance Considerations
 
