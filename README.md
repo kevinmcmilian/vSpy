@@ -34,6 +34,7 @@ vSpy will (probably) be continually getting updates.  Here is roughly my list of
 3) Getting the configuration cleaned up a bit so anyone can comfortable use it
 4) Rewriting the key buffer logic in vSpy so it doesn't need AHK to send it an activation key (see "Standalone vSpy" paragraph above)
 5) Rewriting the AHK and LuaMacros scripts so they aren't an absolute atrocity.
+6) Adding a GUI for configuration (*gasp....actual proper-looking software?!?!*)
 
 To be completely honest, I can't guarantee the project will progress past #1.  I only need it to get to #1 for my uses, so I probably won't be overly motivated to spend time continuing development unless there is demand for it.  If there is "sufficient demand", however, I will absolutely continue development.
 
